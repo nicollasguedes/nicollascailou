@@ -9,7 +9,7 @@ Sou um DEV com conhecimentos abranjentes em JAVA e JavaScript procuro me especia
 
  :office:  &nbsp; Estou cursando Ciência da Computação na **FAFIC - Faculdade de Filosofia, Ciências e Letras de Cajazeiras**
  <br/> :purple_heart: &nbsp; Buscando estágio como dev em função de melhorar minhas habilidades e criar novas.
- <br/> :computer: &nbsp; Minha stack: JavaScript JAVA, PYTHON.
+ <br/> :computer: &nbsp; Minha stack: JAVASCRIPT, JAVA, PYTHON.
  <br/> 💬  &nbsp; Sobre mim: Entusiasta em programação, gosto de estudar em grupo via discord, fazer transmissões ao vivo na twitch, a procura de desenvolvimento profissional constante.
  <br/> :email: &nbsp; Entre em contato comigo: [![Linkedin Badge](https://img.shields.io/badge/-NicollasEStrelaGuedes-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/nicollas-estrela-guedes-44a5581a8/)](https://www.linkedin.com/in/nicollas-estrela-guedes-44a5581a8/) 
 | 
